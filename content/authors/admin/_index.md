@@ -22,7 +22,7 @@ organizations:
     url: https://www.uc3m.es/departamento-matematicas/inicio
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in applying mathematical methods to biological problems. I have three main research lines: antibiotic resistance, evolutionary theory and systems biology.
+bio: I am interested in applying mathematical methods to biological problems, specifically in antibiotic resistance, evolutionary theory and systems biology.
 
 # Interests to show in About widget
 interests:
